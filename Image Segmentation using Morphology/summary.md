@@ -5,3 +5,6 @@ This folder contains code for performing segmentation using morphological operat
 
 ## Examples  
 
+![Input image](./snip91A.PNG)  ![Output image](./snip91B.PNG)  
+
+![Example image pair 2](./snip93.PNG)
